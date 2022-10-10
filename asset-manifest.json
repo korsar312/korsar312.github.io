@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.491e559e.css",
+    "main.js": "/static/js/main.61c220be.js",
+    "static/js/581.97fd6b2e.chunk.js": "/static/js/581.97fd6b2e.chunk.js",
+    "static/js/338.fb5c3aa5.chunk.js": "/static/js/338.fb5c3aa5.chunk.js",
+    "static/media/outskirts.jpg": "/static/media/outskirts.5b7c0d666b8d764e74e4.jpg",
+    "static/media/downtown.jpg": "/static/media/downtown.2f9b06833f89854c50bb.jpg",
+    "static/media/temple.jpg": "/static/media/temple.971cf9f6062f14124ae7.jpg",
+    "static/media/eastWall.jpg": "/static/media/eastWall.a944a27a911665f5bfc7.jpg",
+    "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.13a29228654d5c5ec9c4.ttf",
+    "static/media/Roboto-Regular.ttf": "/static/media/Roboto-Regular.03523cf578d69fa92322.ttf",
+    "static/media/Roboto-Bold.ttf": "/static/media/Roboto-Bold.4f39c5796e60c9d8e732.ttf",
+    "index.html": "/index.html",
+    "main.491e559e.css.map": "/static/css/main.491e559e.css.map",
+    "main.61c220be.js.map": "/static/js/main.61c220be.js.map",
+    "581.97fd6b2e.chunk.js.map": "/static/js/581.97fd6b2e.chunk.js.map",
+    "338.fb5c3aa5.chunk.js.map": "/static/js/338.fb5c3aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.491e559e.css",
+    "static/js/main.61c220be.js"
+  ]
+}

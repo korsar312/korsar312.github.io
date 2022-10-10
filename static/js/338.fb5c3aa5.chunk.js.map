@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/338.fb5c3aa5.chunk.js","mappings":"iIASA,UAJkB,WACjB,OAAO,iBACP,C","sources":["Pages/ErrorPage/ErrorPage.tsx"],"sourcesContent":["import React from \"react\";\n\n/**\n * Страница ощибки\n */\nconst ErrorPage = () => {\n\treturn <div />;\n};\n\nexport default ErrorPage;\n"],"names":[],"sourceRoot":""}
